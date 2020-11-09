@@ -1,2 +1,2 @@
 # GitHub-Tutirial
-this is a test 
+Hey! This is for tutorial purpose.
